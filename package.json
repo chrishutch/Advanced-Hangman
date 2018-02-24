@@ -1,0 +1,22 @@
+{
+  "name": "apple-hangman",
+  "version": "1.0.0",
+  "description": "Guess words from the Apple universe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishutch/Advanced-Hangman.git"
+  },
+  "author": "Chris Hutchinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrishutch/Advanced-Hangman/issues"
+  },
+  "homepage": "https://github.com/chrishutch/Advanced-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
